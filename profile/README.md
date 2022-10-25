@@ -7,4 +7,6 @@ Group members 🧑🏼‍💻👨🏻‍💻🧑🏼‍💻
 - Anders Heftøy Carlsen
 - Marius Klemp Petersen
 - Adrian Wist Hakvåg
+- Olav Finne Prestæng Larsen
+
 
